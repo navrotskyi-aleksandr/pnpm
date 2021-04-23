@@ -1,0 +1,12 @@
+{
+  "engines": {
+    "node": ">=15",
+    "pnpm": ">=6"
+  },
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "dependencies": {
+    "eslint": "^7.24.0"
+  }
+}
